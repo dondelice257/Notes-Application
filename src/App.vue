@@ -17,7 +17,7 @@ export default {
     return{
       maxElements:10,
       elements :[
-        'Element 1'
+        'just first element'
       ]
     }
   },
@@ -32,7 +32,9 @@ export default {
 
     },
   
-  components:{ElementGrid, NewElement}
+  components:{ElementGrid,
+              NewElement
+  }
 }
 </script>
 <style>
