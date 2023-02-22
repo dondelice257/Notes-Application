@@ -1,1 +1,1 @@
-This is a notes application where you can edit and save notes also with possibilities to delete them 5
+This is a notes application where you can edit and save notes also with possibilities to delete them 6
