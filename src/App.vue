@@ -17,7 +17,7 @@ export default {
     return{
       maxElements:10,5
       elements :[
-        'just first element'5
+        'just first element'
       ]
     }
   },
