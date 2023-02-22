@@ -25,7 +25,7 @@ export default {
   color: #000;
   border: 1px solid black;
   font-family: sans-serif;
-  min-width: 140px;
+  min-width: 150px;
   max-width: 200px;
   max-height: 100px;
   font-size: 24px;
