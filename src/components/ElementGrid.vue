@@ -37,7 +37,7 @@ export default {
   overflow-x: auto;
 }
 .contEl:hover{
-  background: rgb(237, 136, 136);
+  background: rgb(235, 135, 135);
 }
 textarea{
   display: flex;
