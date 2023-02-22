@@ -1,6 +1,6 @@
 <template>
 <div>
-  <h2>Hello h2</h2>
+ 
   <NewElement @addElement="newEl($event)"></NewElement>
   <ElementGrid :elements="elements"
                 @deleteEl="deleteIt($event)"></ElementGrid>
