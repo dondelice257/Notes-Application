@@ -25,7 +25,7 @@ export default {
   color: rgb(0, 0, 0);
   border: 1px solid black;
   font-family: 'Arizona';
-  min-width: 150px;
+  min-width: 140px;
   max-width: 200px;
   max-height: 100px;
   font-size: 25px;
