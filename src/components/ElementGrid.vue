@@ -18,7 +18,7 @@ export default {
   }
   
 }
-</script>
+</script scoped>
 <style>
 .contEl{
   background: rgb(190, 185, 185);
