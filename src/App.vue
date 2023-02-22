@@ -9,7 +9,7 @@
 </div>
 </template>
 <script>
-import ElementGrid from './components/ElementGrid.vue'
+import ElementGrid from './components/ElementGrid.vue'2
 import NewElement from './components/NewElement.vue'
 
 export default {
