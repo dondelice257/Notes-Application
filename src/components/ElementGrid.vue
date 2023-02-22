@@ -19,7 +19,7 @@ export default {
   
 }
 </script>
-<style scoped>
+<style>
 .contEl{
   background: rgb(190, 185, 185);
   color: #000;
