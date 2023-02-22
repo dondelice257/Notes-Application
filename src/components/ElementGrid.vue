@@ -22,7 +22,7 @@ export default {
 <style scoped>
 .contEl{
   background: rgb(190, 185, 185);
-  color: rgb(0, 0, 0);
+  color: #000;
   border: 1px solid black;
   font-family: sans-serif;
   min-width: 140px;
