@@ -32,7 +32,7 @@ export default {
   text-align: center;
   padding: 20px 0px 20px 0px;
   margin: 20px;
-  display: grid;
+  display: flex;
   flex-direction: row;
   overflow-x: auto;
 }
