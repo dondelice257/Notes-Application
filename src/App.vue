@@ -15,7 +15,7 @@ import NewElement from './components/NewElement.vue'3
 export default {
   data(){
     return{
-      maxElements:10,
+      maxElements:10,5
       elements :[
         'just first element'
       ]
