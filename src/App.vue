@@ -1,7 +1,7 @@
 <template>
 <div>
   <h2>Hello h2</h2>
-  <New-element @addElement="newEl($event)"></New-element>
+  <NewElement @addElement="newEl($event)"></NewElement>
   <ElementGrid :elements="elements"
                 @deleteEl="deleteIt($event)"></ElementGrid>
 
