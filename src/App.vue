@@ -2,7 +2,7 @@
 <div>
  
   <NewElement @addElement="newEl($event)"></NewElement>
-  <ElementGrid :elements="elements"
+  <ElementGrid :elements="elements"7
                 @deleteEl="deleteIt($event)"></ElementGrid>
 
   
