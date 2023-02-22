@@ -28,7 +28,7 @@ export default {
   min-width: 140px;
   max-width: 200px;
   max-height: 100px;
-  font-size: 25px;
+  font-size: 24px;
   text-align: center;
   padding: 20px 0px 20px 0px;
   margin: 20px;
