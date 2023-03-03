@@ -27,7 +27,7 @@ export default {
       
       },
       deleteIt(index){
-       this.elements.splice(index, 14)
+       this.elements.splice(index, 15)
       }
 
     },
